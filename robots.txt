@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 
-<<<<<<< HEAD
 Sitemap: http://git.kilroysoft.ch/sitemap.xml 
-=======
-Sitemap: http://kilroysoft.github.io/sitemap.xml 
->>>>>>> b3591035909c2d52f1561e7888bb8b225d9587db
