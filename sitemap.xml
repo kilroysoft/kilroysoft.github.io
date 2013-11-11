@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://git.kilroysoft.ch/</loc>
+        <lastmod>2013-11-11T00:04:59+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git.kilroysoft.ch/blog/archives/</loc>
+        <lastmod>2013-11-11T00:04:59+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git.kilroysoft.ch/robots.txt</loc>
+        <lastmod>2013-11-11T00:04:59+01:00</lastmod>
+    </url>
+</urlset>
