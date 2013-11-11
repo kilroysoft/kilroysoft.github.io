@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog for kilroySoft's git]]></title>
+  <link href="http://git.kilroysoft.ch/atom.xml" rel="self"/>
+  <link href="http://git.kilroysoft.ch/"/>
+  <updated>2013-11-12T00:28:49+01:00</updated>
+  <id>http://git.kilroysoft.ch/</id>
+  <author>
+    <name><![CDATA[Ivan Pierre]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
