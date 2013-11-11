@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[Blog for kilroySoft's git]]></title>
   <link href="http://git.kilroysoft.ch/atom.xml" rel="self"/>
   <link href="http://git.kilroysoft.ch/"/>
@@ -8,6 +9,15 @@
   <id>http://git.kilroysoft.ch/</id>
   <author>
     <name><![CDATA[Ivan Pierre]]></name>
+=======
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kilroysoft.github.io/atom.xml" rel="self"/>
+  <link href="http://kilroysoft.github.io/"/>
+  <updated>2013-11-11T05:13:41+01:00</updated>
+  <id>http://kilroysoft.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+>>>>>>> b3591035909c2d52f1561e7888bb8b225d9587db
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
